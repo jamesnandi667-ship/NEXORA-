@@ -1,9 +1,0 @@
-NEXORA AI V13
-
-This version is a clean rebuild of the AI screen.
-
-IMPORTANT:
-1. Extract the ZIP completely.
-2. Open index.html from THIS folder if your preview supports static files, OR run `npm install` then `npm start` for the full backend.
-3. If your browser still shows the old NEXORA AI screen, close the old preview tab completely and open this folder's index.html in a new tab. V13 unregisters old service workers and clears browser caches on startup.
-4. Look for the visible “NEXORA AI V13 • LIVE CHAT EXPERIENCE” banner. If you do not see it, you are NOT running this package.
