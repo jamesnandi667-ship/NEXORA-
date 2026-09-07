@@ -1,0 +1,28 @@
+{
+  "app": "NEXORA",
+  "version": "13.0.0",
+  "premium": {
+    "currency": "KES",
+    "amount": 100,
+    "period": "month"
+  },
+  "branding": "public/assets/nexora-logo.png",
+  "payment": {
+    "provider": "M-Pesa Daraja"
+  },
+  "infrastructure": {
+    "domain": null,
+    "hosting": "Render/Node.js ready",
+    "database": "JSON for local/demo; PostgreSQL recommended for production",
+    "fileStorage": "Local configurable directory; object storage recommended for production"
+  },
+  "ai": {
+    "architecture": "provider-agnostic server-side AI with local fallback",
+    "apiKeyLocation": "server environment only"
+  },
+  "mobile": {
+    "wrapper": "Capacitor",
+    "android": "cloud build workflow included"
+  },
+  "name": "NEXORA"
+}
